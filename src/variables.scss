@@ -1,0 +1,108 @@
+// fonts
+$fontFamilyMain: "Inter", "Arial", sans-serif;
+
+$fontH1: 700 #{36px} / #{120%} $fontFamilyMain;
+$fontH2: 700 #{32px} / #{120%} $fontFamilyMain;
+$fontH3: 700 #{24px} / #{120%} $fontFamilyMain;
+$fontH4: 700 #{18px} / #{120%} $fontFamilyMain;
+$fontH5: 700 #{16px} / #{120%} $fontFamilyMain;
+$fontH6: 700 #{14px} / #{120%} $fontFamilyMain;
+$fontH7: 700 #{12px} / #{120%} $fontFamilyMain;
+$fontH8: 700 #{10px} / #{120%} $fontFamilyMain;
+
+$fontP1: 500 #{24px} / #{120%} $fontFamilyMain;
+$fontP2: 500 #{18px} / #{120%} $fontFamilyMain;
+$fontP3: 400 #{16px} / #{120%} $fontFamilyMain;
+$fontP4: 500 #{16px} / #{120%} $fontFamilyMain;
+$fontP5: 400 #{14px} / #{120%} $fontFamilyMain;
+$fontP6: 500 #{14px} / #{120%} $fontFamilyMain;
+$fontP7: 400 #{12px} / #{120%} $fontFamilyMain;
+$fontP8: 500 #{12px} / #{120%} $fontFamilyMain;
+$fontP9: 400 #{10px} / #{120%} $fontFamilyMain;
+$fontP10: 500 #{10px} / #{120%} $fontFamilyMain;
+
+// Styleguide
+$whiteMain: #ffffff;
+$white600: #ffffffe0;
+$white500: #ffffffa3;
+$white400: #ffffff66;
+$white300: #ffffff24;
+$white200: #ffffff17;
+$white100: #ffffff0f;
+
+$blackMain: #08091c;
+$black600: #08091ce0;
+$black500: #08091c99;
+$black400: #08091c5c;
+$black300: #08091c1f;
+$black200: #08091c14;
+$black100: #08091c0a;
+
+$darkMain: #273f4f;
+$darkMain600: #273f4fe0;
+$darkMain500: #273f4f99;
+$darkMain400: #273f4f5c;
+$darkMain300: #273f4f1f;
+$darkMain200: #273f4f14;
+$darkMain100: #273f4f0a;
+
+$blueMain: #447d9b;
+$blue600: #447d9be0;
+$blue500: #447d9b99;
+$blue400: #447d9b5c;
+$blue300: #447d9b24;
+$blue200: #447d9b1a;
+$blue100: #447d9b0f;
+
+$orangeMain: #fe7743;
+$orange600: #fe7743e0;
+$orange500: #fe774399;
+$orange400: #fe77435c;
+$orange300: #fe774324;
+$orange200: #fe77431a;
+$orange100: #fe77430f;
+
+// colors
+
+//background
+$bgPrimary: $darkMain;
+$bgSecondary: $blue500;
+$bgSecondaryHover: $blue600;
+$bgSecondaryActive: $blueMain;
+$bgDisabled: $black300;
+$bgAccent: $orangeMain;
+$bgAccentHover: $orange500;
+$bgAccentActive: $orange600;
+$bgAccentSubdued: $orange100;
+$bgAccentSubduedHover: $orange200;
+$bgAccentSubduedActive: $orange300;
+
+// text
+$textPrimary: $whiteMain;
+$textSecondary: $black500;
+$textDisabled: $black400;
+$textAccent: $orangeMain;
+$textAccentHover: $orange500;
+$textAccentActive: $orange600;
+$textAccentSubdued: $orange100;
+$textAccentSubduedHover: $orange200;
+$textAccentSubduedActive: $orange300;
+
+// border
+$borderPrimary: $blue300;
+$borderSecondary: $black200;
+$borderFocus: $blueMain;
+$borderAccent: $orangeMain;
+$borderAccentHover: $orange500;
+$borderAccentActive: $orange600;
+
+// icon
+$iconPrimary: $whiteMain;
+$iconSecondary: $white500;
+$iconDisabled: $black400;
+$iconAccent: $orangeMain;
+$iconAccentHover: $orange500;
+$iconAccentActive: $orange600;
+$iconAccentSubdued: $orange100;
+$iconAccentSubduedHover: $orange200;
+$iconAccentSubduedActive: $orange300;
